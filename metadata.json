@@ -1,0 +1,6 @@
+{
+  "name": "Apresiasi Hari Guru",
+  "description": "Kartu ucapan interaktif Hari Guru yang elegan, puitis, dan penuh penghormatan untuk dibagikan kepada guru tercinta dalam bentuk link.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
